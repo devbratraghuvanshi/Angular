@@ -1,0 +1,13 @@
+
+Install Node JS (https://nodejs.org/en/)
+
+Install typescript ( npm install -g typescript )
+
+npm install -g @angular/cli@latest
+
+ng new PROJECT-NAME
+cd PROJECT-NAME
+ng serve
+
+or 
+ng serve --host 127.0.1.5 --port 4201
