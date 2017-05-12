@@ -5,9 +5,11 @@ Install typescript ( npm install -g typescript )
 
 npm install -g @angular/cli@latest
 
-ng new PROJECT-NAME
-cd PROJECT-NAME
+ng new AngularApp
+cd AngularApp
 ng serve
 
 or 
 ng serve --host 127.0.1.5 --port 4201
+
+npm install --save bootstrap
